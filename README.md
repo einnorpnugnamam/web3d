@@ -1,7 +1,3 @@
-# Boilerplate & Guidelines
-
-ABS-CBN HTML Boilerplate is a set of template files - HTML, CSS, JS - and site structure. Follow the guidelines for a standardized coding style.
-
 
 ## Setup
 
