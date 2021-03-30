@@ -1,0 +1,37 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+
+  /* DEVELOPERS */
+  Front End Developer : Ronnie P. Mamangun
+  Location: San Pablo Proper, San Simon Pampanga, Philippines
+
+  Back End Developer : <name>
+  Location: <location>
+
+  /* CREATIVES */
+  Art Director : <name>
+  Location: <location>
+
+  /* STRATEGIST */
+  Strategist : <name>
+  Location: <location>
+
+  /* PROJECT MANAGER */
+  Project Manager : <name>
+  Location: <location>
+
+  /* QUALITY ASSURANCE */
+  Quality Assurance Specialist : <name>
+  Location: <location>
+
+  /* ACCOUNT MANAGER */
+  Account Officer : <name>
+  Location: <location>
+
+/* SITE */
+  Last update: 2021/03/30
+  Standards: HTML5, CSS3, Javascript
+  Components: Modernizr, jQuery, Normalize.css, Progressive Internet Explorer, PictureFill
+  IDE: Sublime Text, Photoshop

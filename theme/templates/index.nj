@@ -1,0 +1,8 @@
+{% extends "layout/index.nj" %}
+
+{% set page_title = "Web 3d" %}
+    
+    {% block content %}
+	<div class="home">
+	</div>
+	{% endblock %}
