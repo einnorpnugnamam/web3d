@@ -11,8 +11,8 @@
     <meta name="rights" content="" />
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="apple-touch-icon" href="apple-icon.png">
-    <link rel="icon" href="favicon.png">
+    <!-- <link rel="apple-touch-icon" href=""> -->
+    <!-- <link rel="icon" href=""> -->
     <!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="ms-icon.png">
@@ -56,11 +56,10 @@
 
     <!--START INCLUDING SCRIPTS HERE-->
     <script type="text/javascript" src="theme/dist/master.min.js"></script>
-    <script>
-        $.getScript('https://cdnjs.cloudflare.com/ajax/libs/three.js/r126/three.js').done(function() {
-            three.init();
-        });
-    </script>
+    <script type="text/javascript" src="theme/dist/three.js"></script>
+    <script type="text/javascript" src="theme/dist/GLTFLoader.js"></script>
+    <script type="text/javascript" src="theme/dist/dracoLoader.js"></script>
+    <script type="text/javascript" src="theme/dist/OrbitControl.js"></script>
     <!--END SCRIPTS-->
 </body>
 </html>

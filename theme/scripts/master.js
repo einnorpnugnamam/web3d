@@ -10,6 +10,8 @@ var LOAD = (function() {
 		if($(".main .home").length > 0) {
 			home.init();
 		}
+
+		three.init();
 	}
 
 	return {
